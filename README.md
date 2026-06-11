@@ -44,7 +44,7 @@ The project is implemented on the Xilinx PYNQ-Z2 development board based on the 
 
 ## 🏗️ System Architecture
 
-![System Architecture](images/Architecture.png)
+![System Architecture](images/Architecture.jpg)
 
 ### System Workflow
 
@@ -101,13 +101,13 @@ This approach enables efficient and reliable human detection while maintaining c
 
 ### Single Person Detection
 
-![Single Detection](images/Output_Single_Person.png)
+![Single Detection](images/Output_Single_Person.jpg)
 
 The system successfully detects an individual human subject and generates an accurate bounding box around the detected person.
 
 ### Multiple Person Detection
 
-![Multiple Detection](images/Output_Multiple_Person.png)
+![Multiple Detection](images/Output_Multiple_Person.jpg)
 
 The system successfully identifies multiple individuals within the scene and produces bounding boxes for each detected subject.
 
@@ -196,7 +196,7 @@ Detailed project documentation is available in the `docs` directory:
 
 ## 👨‍💻 Author
 
-### Iniyavan S
+### INIYAVAN S
 
 **B.E. Electronics Engineering (VLSI Design & Technology)**
 
@@ -205,9 +205,7 @@ Areas of Interest:
 * FPGA Design
 * Embedded Systems
 * VLSI Design
-* Physical Design
-* Computer Vision
-* Edge AI
+* Verification Engineer
 * Hardware-Software Co-Design
 
 ---
