@@ -4,9 +4,7 @@ benchmark.py
 Performance benchmarking utilities
 for Real-Time Object Detection on PYNQ-Z2.
 """
-
 import numpy as np
-
 
 class Benchmark:
     """
